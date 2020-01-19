@@ -1,3 +1,5 @@
+TWITTER ANALYSIS: Slistener module
+
 from tweepy.streaming import StreamListener
 import json
 import time
